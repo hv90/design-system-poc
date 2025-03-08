@@ -1,0 +1,2 @@
+import{p as o,b as r}from"./p-640de567.js";export{s as setNonce}from"./p-640de567.js";import{g as e}from"./p-e1255160.js";var t=()=>{const r=import.meta.url;const e={};if(r!==""){e.resourcesUrl=new URL(".",r).href}return o(e)};t().then((async o=>{await e();return r([["p-3cc2ded6",[[1,"my-component",{first:[16],middle:[16],last:[16],background:[1]}]]],["p-dfbba5c8",[[1,"second-component",{label:[1],size:[1],borderRadius:[1,"border-radius"],color:[1],background:[1],clickButton:[16]}]]]],o)}));
+//# sourceMappingURL=design-system-poc.esm.js.map
