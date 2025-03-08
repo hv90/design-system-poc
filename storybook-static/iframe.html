@@ -508,7 +508,10 @@
     console.warn('unable to connect to top frame for connecting dev tools');
   }
 </script>
-
+<script type="module">
+  import { defineCustomElements } from './dist/esm/loader.js';
+  defineCustomElements(window);
+</script>
     <script type="module" crossorigin src="./assets/iframe-Gm6xfoj3.js"></script>
   </head>
 
